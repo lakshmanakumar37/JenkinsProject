@@ -10,6 +10,7 @@ public class TestCases extends BrowserSetUp {
 	@Test
 	public void testCase1() {
 		System.out.println("This is test case1");
+		System.out.println("This is commit message");
 	}
 	
 	@Test
